@@ -9,8 +9,8 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "standard-sail.gl.joinmc.link",
-          "assigned_srv": "standard-sail.gl.joinmc.link",
+          "assigned_domain": "147.185.221.21:56498",
+          "assigned_srv": "147.185.221.21:56498",
           "assignment": {
             "type": "shared-ip"
           },
